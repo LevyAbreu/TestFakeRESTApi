@@ -1,6 +1,5 @@
 import requests
 
-
 class TestDeleteActivities:
     BASE_URL = "https://fakerestapi.azurewebsites.net/api/v1"
 
